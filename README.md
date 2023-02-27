@@ -12,18 +12,15 @@ All my life I was Working as a filmmaker, vj/video mapping, animations and postp
 
 <br> <br/>
  
-
-
-
 <div id="header" align="center" >
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ4ZmJjOGQ3ZGZiNTAwOTI4NTBjNjU1MzdiNTY3NjAyOTM3ZTQyZCZjdD1z/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
  
   <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDg3NWNjYzU5Y2M4M2YxMjE1N2EzNDJjZDBmYzU4NmYxYTgyMjE4NCZjdD1z/ln7z2eWriiQAllfVcn/giphy.gif" width="100"/>
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE1YmFiMGIwN2Y0ZGVmYjlkZDZiZjZiODVkYzA1MTc2MThmMDE0NCZjdD1z/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"/>
    <img src ="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47a27846v6sela7a51mm9gx4fhfi6rt37ummznmhuy&rid=giphy.gif&ct=s" width="100"/>
-   <p> <b>The key strengths that I possess include the following: <b/> <p/>
+  
 </div>  
-
+  
 ## Coding Languages
 * Python Programming.
 * Javascript Programming.
@@ -36,10 +33,12 @@ All my life I was Working as a filmmaker, vj/video mapping, animations and postp
 * Typescript/NextJs-React.
 * Django/ FastApi.
      
-## Interactive Arts & DeepLearning experiments
+## Interactive Arts & computer visions experiments
 * Computer vision programming. (Open CV computer visions official courses certified/ computer vision I-II).
+* Touch Designer
+* Processing
      
-## Sofwares
+## Softwares
 * Adobe Suite. (Adobe After Effects-Adobe Premier)
      
 ## Languages
@@ -57,11 +56,11 @@ All my life I was Working as a filmmaker, vj/video mapping, animations and postp
 
 
 <div id="badges"  padding= '20px'>
-  <a href="your-linkedin-URL](https://www.linkedin.com/in/noslen-pantaleon-b8812638">
+  <a href="https://www.linkedin.com/in/noslen-pantaleon-b8812638">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
-  <a href="your-twitter-URL](https://www.behance.net/Frikout">
+  <a href="https://www.behance.net/Frikout">
     <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Behance Badge"/>
   </a>
 </div>
