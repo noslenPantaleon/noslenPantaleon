@@ -48,9 +48,9 @@ All my life I was Working as a filmmaker, vj/video mapping, animations and postp
      
 ## Agile Mehodologies and Tools  
      
-*Jira.
-*Trello.
-*Zoho.
+* Jira.
+* Trello.
+* Zoho.
 
  
  ### I’m currently working on OpenSource Projects and freelance projects, looking to grow my developer career with a team.
@@ -65,6 +65,19 @@ All my life I was Working as a filmmaker, vj/video mapping, animations and postp
     <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Behance Badge"/>
   </a>
 </div>
+
+<div id="header" align="center" >
+  <h1> My Free Time: <h1/>
+ <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGEyZGE3NjJjMGE5MDIyYWQxNWQ0M2IwMmI5N2M4NmM4MGZiOTVlMCZjdD1z/0LxRnBQq0ZdvK2u00N/giphy.gif"width="100"/>
+<img src ="https://media3.giphy.com/media/hQvsnZaJKQnqo0c38k/giphy.gif?cid=ecf05e47mamipqf356g6rgljsbma50e6l6fhfqljmaydoutc&rid=giphy.gif&ct=s" width="100"/>
+<img src ="https://media0.giphy.com/media/WwpaRjmDqqlcCHLz31/giphy.gif?cid=ecf05e47y8s0a11hykekjy9ph4zdyau72x1ai1vhcyxq247j&rid=giphy.gif&ct=s" width="100"/>
+<img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ4NzYyZTAyYWM2NDUzNTI0YjVmNjUzODVmMWU4ZWIxZmVmYjU5MCZjdD1z/UWVRBrflOfj8Mxf4YL/giphy.gif" width="100"/>
+<img src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY3NzNjMzNlN2Y1Y2Q0YmZhNDExODk5NmUwNGZkMDJmMjk0ZWIzZSZjdD1z/aZAJozpy4g6MspsZiz/giphy.gif"width="100"/>
+<img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM2ODZhNTlhNTNmZDVmNjE5YmI4NWM4ZDc0OGVhZGYyYjFlZGI3YiZjdD1z/I8wguWkN6EtNJGpgKw/giphy.gif"width="100"/>
+<img src ="https://media1.giphy.com/media/bIt8LEFtJKXBTZBJFt/giphy.gif?cid=ecf05e47ljmtcqkl5hhj8hra50qtd67ugong1rgr9oy1mbxo&rid=giphy.gif&ct=s"width="100"/>
+</div>  
+
+
 
 <!--
 **noslenPantaleon/noslenPantaleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
