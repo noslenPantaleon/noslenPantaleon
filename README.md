@@ -75,7 +75,7 @@ My first career was as a filmmaker and post-producer, specializing in video edit
   
   
   <div align="center" >
-    <div style="display: flex; align-items: flex-start;  gap: 15;">
+    <div style="display: flex; align-items: flex-start; justify-content: space-around;">
     <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noslenPantaleon&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
     <img  height="200" src="https://github-readme-stats.vercel.app/api?username=noslenPantaleon&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
       </div>
