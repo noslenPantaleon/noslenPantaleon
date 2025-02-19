@@ -12,11 +12,13 @@
 
 </div>
 
-### I’m a Junior developer with experience in full-stack development, building frontend websites with Reactjs/Nextjs, and backend web apis, and more tools with Python.
+### I’m a developer with experience in full-stack development, building frontend websites with Reactjs/Nextjs, backend web APIs, and more tools with Python.
 
-My first career was as a filmmaker and post-producer, specializing in video editing and animation, and since I was working on a computer and learned diferents softwares, I decide to experiment with code development.
+My career began in filmmaking and post-production, where I specialized in video editing and animation. Working extensively with computers and software sparked my interest in coding, leading me to explore software development.
 
- I started my software development career in 2018, learning about interactive animations with Processing and Arduino as a hobbyist, and 3 years later, I realize that I really like to code and think logically and creatively at the same time, and I decided to start my development roadmap by learning python in the field of backend and some datascience libraries, However, my desire to learn led me to study frontend tecnologies, because I also like the idea to create interfaces and interactive experiences.
+In 2018, I started learning interactive animations using Processing and Arduino as a hobby. Over time, I discovered my passion for coding, combining logical thinking with creativity. This inspired me to pursue a development roadmap, beginning with Python for backend development and data science libraries.
+
+Driven by curiosity, I also ventured into front-end technologies, as I enjoy creating interfaces and interactive experiences.
 
 ### :fire: Languages and Tools :
   
