@@ -36,7 +36,7 @@ Driven by curiosity, I also ventured into front-end technologies, as I enjoy cre
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" **alt="Postgresql" width="60"
             height="60"/>&nbsp;
       <h4> Frontend: </h4>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;             <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"  title="NextJs" **alt="NextJs" width="40" height="40" />&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;             <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg"  title="NextJs" **alt="NextJs" width="40" height="40" />&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"  title="NextJs" **alt="NextJs" width="40" height="40" />&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
